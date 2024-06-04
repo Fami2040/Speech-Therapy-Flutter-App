@@ -1,16 +1,18 @@
-# speech_therapy
+# Speech Therapy App
 
-A new Flutter project.
+ᕼI 👋 This research project aims to develop an innovative assistive tool to help children with speech and language delays improve their language skills and communicate their needs effectively. The study examines the significant impact of these delays on children's overall development, particularly emphasizing the critical role of communication in sharing thoughts, ideas, and feelings. The project involves creating a mobile application to complement therapy for children with speech and language delays, focusing on an Amharic version to ensure cultural relevance. The findings are based on interviews with speech therapists and the development of a user-friendly app featuring interactive exercises and visual aids.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## SᑕᖇEEᑎSᕼOTS
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="screenshot/Screenshot 1.png" width=230> <img src="screenshot/Screenshot 2.png" width=230> <img src="screenshot/Screenshot 3.png" width=230>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screenshot/Screenshot 4.png" width=230> <img src="screenshot/Screenshot 5.png" width=230> <img src="screenshot/Screenshot 6.png" width=230> 
+
+<img src="screenshot/Screenshot 7.png" width=230> <img src="screenshot/Screenshot 8.png" width=230> <img src="screenshot/Screenshot 9.png" width=230>
+
+<img src="screenshot/Screenshot 10.png" width=230> <img src="screenshot/Screenshot 11.png" width=230>
+
+
+
